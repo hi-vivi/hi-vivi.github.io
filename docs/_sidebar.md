@@ -1,4 +1,2 @@
-<!-- docs/_sidebar.md -->
-
 - [2026年3月](/study/202603/README.md)
 	- [3月23日](/study/202603/0323.md)
